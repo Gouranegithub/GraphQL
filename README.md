@@ -1,4 +1,4 @@
-### How to run the API
+# How to run the API
 
 ## To run the Application:
 ```npm start```
@@ -13,7 +13,7 @@
 
 ## And Congrats you can start writing your querys!
 
-### Note:
+# Note:
 
 ## If you don't have the package.json file go to cmd and navigate to your folder then exicute:
 ```npm init```
