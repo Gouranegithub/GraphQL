@@ -1,7 +1,7 @@
 ## To run the Application:
 ```npm start```
 ## You will see a message like this:
-
+![demo](https://github.com/user-attachments/assets/dc3d0c03-df7b-4365-be9b-e20ffe9239d2)
 ## Navigate to
 ```http://localhost:4800/graphql```
 
